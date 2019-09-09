@@ -1,5 +1,4 @@
 # InterceptorApp
 
-Este es el repositorio de una sección de mi curso avanzado de Angular, si lo desean, pueden inscribirse aquí
+this is a simple struct of Interceptors in Angular, here we can see how we implement a interceptor in a http petition
 
-https://www.udemy.com/angular-avanzado-fernando-herrera/?couponCode=ADV-FERNANDO
